@@ -21,4 +21,4 @@ execution speeds over existing PIM-based GEMV engines on FPGAsand achieving a
 clock speed of 737 MHz, providing 64K bit- serial multiply-accumulate (MAC)
 units for GEMV operation.
 
-![Poster](https://github.com/Arafat-Kabir/FCCM-2024-Poster/blob/main/poster-A1.png?raw=true)
+![Poster](https://github.com/Arafat-Kabir/FCCM-2024-Poster/blob/main/poster-A0.png?raw=true)
